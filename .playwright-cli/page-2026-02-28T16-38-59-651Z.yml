@@ -1,0 +1,218 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - complementary [ref=e3]:
+      - generic [ref=e5]:
+        - img [ref=e7]
+        - generic [ref=e10]: OmniStream
+      - navigation [ref=e11]:
+        - list [ref=e12]:
+          - listitem [ref=e13]:
+            - button "Home" [ref=e14]:
+              - img [ref=e16]
+              - generic [ref=e19]: Home
+          - listitem [ref=e20]:
+            - button "YouTube Subs" [ref=e21]:
+              - img [ref=e22]
+              - generic [ref=e25]: YouTube Subs
+          - listitem [ref=e26]:
+            - button "Live TV" [ref=e27]:
+              - img [ref=e28]
+              - generic [ref=e31]: Live TV
+          - listitem [ref=e32]:
+            - button "Music Lounge" [active] [ref=e33]:
+              - img [ref=e34]
+              - generic [ref=e38]: Music Lounge
+          - listitem [ref=e39]:
+            - button "Movie Vault" [ref=e40]:
+              - img [ref=e41]
+              - generic [ref=e43]: Movie Vault
+          - listitem [ref=e44]:
+            - button "Settings" [ref=e45]:
+              - img [ref=e46]
+              - generic [ref=e49]: Settings
+      - button "Collapse" [ref=e51]:
+        - img [ref=e52]
+        - generic [ref=e54]: Collapse
+    - banner [ref=e55]:
+      - generic [ref=e56]:
+        - generic [ref=e57]:
+          - img [ref=e58]
+          - textbox "Search videos, streams, movies..." [ref=e61]
+        - generic [ref=e62]:
+          - generic [ref=e719]:
+            - paragraph [ref=e720]: 04:38 PM
+            - paragraph [ref=e721]: Saturday, Feb 28
+          - button [ref=e63]:
+            - img [ref=e64]
+          - button [ref=e68]:
+            - img [ref=e69]
+    - main [ref=e72]:
+      - generic [ref=e73]:
+        - img [ref=e75]
+        - generic [ref=e78]: OmniStream
+        - generic [ref=e79]: /
+        - generic [ref=e80]: music
+      - generic [ref=e732]:
+        - heading "Music Lounge" [level=1] [ref=e733]:
+          - img [ref=e734]
+          - text: Music Lounge
+        - paragraph [ref=e738]: Your personal music player with playlists
+      - generic [ref=e739]:
+        - generic [ref=e740]:
+          - heading "Featured Playlists" [level=2] [ref=e741]
+          - generic [ref=e742]:
+            - generic [ref=e743] [cursor=pointer]:
+              - generic [ref=e744]:
+                - img "Chill Vibes" [ref=e745]
+                - img [ref=e748]
+              - heading "Chill Vibes" [level=3] [ref=e750]
+              - paragraph [ref=e751]: 24 tracks
+            - generic [ref=e752] [cursor=pointer]:
+              - generic [ref=e753]:
+                - img "Workout Mix" [ref=e754]
+                - img [ref=e757]
+              - heading "Workout Mix" [level=3] [ref=e759]
+              - paragraph [ref=e760]: 18 tracks
+            - generic [ref=e761] [cursor=pointer]:
+              - generic [ref=e762]:
+                - img "Late Night Coding" [ref=e763]
+                - img [ref=e766]
+              - heading "Late Night Coding" [level=3] [ref=e768]
+              - paragraph [ref=e769]: 32 tracks
+            - generic [ref=e770] [cursor=pointer]:
+              - generic [ref=e771]:
+                - img "Focus Flow" [ref=e772]
+                - img [ref=e775]
+              - heading "Focus Flow" [level=3] [ref=e777]
+              - paragraph [ref=e778]: 45 tracks
+            - generic [ref=e779] [cursor=pointer]:
+              - generic [ref=e780]:
+                - img "Electronic Dreams" [ref=e781]
+                - img [ref=e784]
+              - heading "Electronic Dreams" [level=3] [ref=e786]
+              - paragraph [ref=e787]: 28 tracks
+            - generic [ref=e788] [cursor=pointer]:
+              - generic [ref=e789]:
+                - img "Acoustic Sessions" [ref=e790]
+                - img [ref=e793]
+              - heading "Acoustic Sessions" [level=3] [ref=e795]
+              - paragraph [ref=e796]: 21 tracks
+        - generic [ref=e797]:
+          - heading "Recently Played" [level=2] [ref=e798]
+          - table [ref=e800]:
+            - rowgroup [ref=e801]:
+              - row "# Title Album" [ref=e802]:
+                - columnheader "#" [ref=e803]
+                - columnheader "Title" [ref=e804]
+                - columnheader "Album" [ref=e805]
+                - columnheader [ref=e806]:
+                  - img [ref=e807]
+            - rowgroup [ref=e810]:
+              - row "1 Midnight Dreams Midnight Dreams Luna Wave Nocturnal 3:45" [ref=e811] [cursor=pointer]:
+                - cell "1" [ref=e812]:
+                  - generic [ref=e814]: "1"
+                - cell "Midnight Dreams Midnight Dreams Luna Wave" [ref=e815]:
+                  - generic [ref=e816]:
+                    - img "Midnight Dreams" [ref=e817]
+                    - generic [ref=e818]:
+                      - paragraph [ref=e819]: Midnight Dreams
+                      - paragraph [ref=e820]: Luna Wave
+                - cell "Nocturnal" [ref=e821]
+                - cell "3:45" [ref=e822]:
+                  - generic [ref=e823]:
+                    - button [ref=e824]:
+                      - img [ref=e825]
+                    - generic [ref=e827]: 3:45
+              - row "2 Electric Soul Electric Soul Neon Pulse Digital Hearts 4:12" [ref=e828] [cursor=pointer]:
+                - cell "2" [ref=e829]:
+                  - generic [ref=e831]: "2"
+                - cell "Electric Soul Electric Soul Neon Pulse" [ref=e832]:
+                  - generic [ref=e833]:
+                    - img "Electric Soul" [ref=e834]
+                    - generic [ref=e835]:
+                      - paragraph [ref=e836]: Electric Soul
+                      - paragraph [ref=e837]: Neon Pulse
+                - cell "Digital Hearts" [ref=e838]
+                - cell "4:12" [ref=e839]:
+                  - generic [ref=e840]:
+                    - button [ref=e841]:
+                      - img [ref=e842]
+                    - generic [ref=e844]: 4:12
+              - row "3 Starlight Starlight Cosmic Drift Galaxy 3:28" [ref=e845] [cursor=pointer]:
+                - cell "3" [ref=e846]:
+                  - generic [ref=e848]: "3"
+                - cell "Starlight Starlight Cosmic Drift" [ref=e849]:
+                  - generic [ref=e850]:
+                    - img "Starlight" [ref=e851]
+                    - generic [ref=e852]:
+                      - paragraph [ref=e853]: Starlight
+                      - paragraph [ref=e854]: Cosmic Drift
+                - cell "Galaxy" [ref=e855]
+                - cell "3:28" [ref=e856]:
+                  - generic [ref=e857]:
+                    - button [ref=e858]:
+                      - img [ref=e859]
+                    - generic [ref=e861]: 3:28
+              - row "4 Ocean Breeze Ocean Breeze Tidal Waves 4:55" [ref=e862] [cursor=pointer]:
+                - cell "4" [ref=e863]:
+                  - generic [ref=e865]: "4"
+                - cell "Ocean Breeze Ocean Breeze Tidal" [ref=e866]:
+                  - generic [ref=e867]:
+                    - img "Ocean Breeze" [ref=e868]
+                    - generic [ref=e869]:
+                      - paragraph [ref=e870]: Ocean Breeze
+                      - paragraph [ref=e871]: Tidal
+                - cell "Waves" [ref=e872]
+                - cell "4:55" [ref=e873]:
+                  - generic [ref=e874]:
+                    - button [ref=e875]:
+                      - img [ref=e876]
+                    - generic [ref=e878]: 4:55
+              - row "5 City Lights City Lights Urban Echo Metropolis 3:18" [ref=e879] [cursor=pointer]:
+                - cell "5" [ref=e880]:
+                  - generic [ref=e882]: "5"
+                - cell "City Lights City Lights Urban Echo" [ref=e883]:
+                  - generic [ref=e884]:
+                    - img "City Lights" [ref=e885]
+                    - generic [ref=e886]:
+                      - paragraph [ref=e887]: City Lights
+                      - paragraph [ref=e888]: Urban Echo
+                - cell "Metropolis" [ref=e889]
+                - cell "3:18" [ref=e890]:
+                  - generic [ref=e891]:
+                    - button [ref=e892]:
+                      - img [ref=e893]
+                    - generic [ref=e895]: 3:18
+    - generic [ref=e660]:
+      - generic [ref=e661]:
+        - generic [ref=e662]:
+          - img "Midnight Dreams" [ref=e663]
+          - img [ref=e665]
+        - generic [ref=e670]:
+          - heading "Midnight Dreams" [level=4] [ref=e671]
+          - paragraph [ref=e672]: Luna Wave
+        - button [ref=e673]:
+          - img [ref=e674]
+      - generic [ref=e676]:
+        - generic [ref=e677]:
+          - button [ref=e678]:
+            - img [ref=e679]
+          - button [ref=e685]:
+            - img [ref=e686]
+          - button [ref=e688]:
+            - img [ref=e689]
+          - button [ref=e691]:
+            - img [ref=e692]
+          - button [ref=e694]:
+            - img [ref=e695]
+        - generic [ref=e700]:
+          - generic [ref=e701]: 0:00
+          - generic [ref=e704]: 3:30
+      - generic [ref=e705]:
+        - button [ref=e706]:
+          - img [ref=e707]
+        - button [ref=e710]:
+          - img [ref=e711]
+  - button "Open Next.js Dev Tools" [ref=e727] [cursor=pointer]:
+    - img [ref=e728]
+  - alert [ref=e718]
