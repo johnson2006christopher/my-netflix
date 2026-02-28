@@ -1,0 +1,489 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - complementary [ref=e3]:
+      - generic [ref=e5]:
+        - img [ref=e7]
+        - generic [ref=e10]: OmniStream
+      - navigation [ref=e11]:
+        - list [ref=e12]:
+          - listitem [ref=e13]:
+            - button "Home" [ref=e14]:
+              - img [ref=e16]
+              - generic [ref=e19]: Home
+          - listitem [ref=e20]:
+            - button "YouTube Subs" [ref=e21]:
+              - img [ref=e22]
+              - generic [ref=e25]: YouTube Subs
+          - listitem [ref=e26]:
+            - button "Live TV" [ref=e27]:
+              - img [ref=e28]
+              - generic [ref=e31]: Live TV
+          - listitem [ref=e32]:
+            - button "Music Lounge" [ref=e33]:
+              - img [ref=e34]
+              - generic [ref=e38]: Music Lounge
+          - listitem [ref=e39]:
+            - button "Movie Vault" [ref=e40]:
+              - img [ref=e41]
+              - generic [ref=e43]: Movie Vault
+          - listitem [ref=e44]:
+            - button "Settings" [ref=e45]:
+              - img [ref=e46]
+              - generic [ref=e49]: Settings
+      - button "Collapse" [ref=e51]:
+        - img [ref=e52]
+        - generic [ref=e54]: Collapse
+    - banner [ref=e55]:
+      - generic [ref=e56]:
+        - generic [ref=e57]:
+          - img [ref=e58]
+          - textbox "Search videos, streams, movies..." [ref=e61]
+        - generic [ref=e62]:
+          - generic:
+            - paragraph
+            - paragraph
+          - button [ref=e63]:
+            - img [ref=e64]
+          - button [ref=e68]:
+            - img [ref=e69]
+    - main [ref=e72]:
+      - generic [ref=e73]:
+        - img [ref=e75]
+        - generic [ref=e78]: OmniStream
+        - generic [ref=e79]: /
+        - generic [ref=e80]: home
+      - generic [ref=e85]:
+        - generic [ref=e86]:
+          - generic [ref=e87]:
+            - img [ref=e88]
+            - text: Live Now
+          - generic [ref=e94]:
+            - img [ref=e95]
+            - text: 12.5K watching
+        - heading "Building the Future" [level=1] [ref=e100]
+        - paragraph [ref=e101]: Join us for an exclusive live coding session where we build a complete SaaS application from scratch.
+        - generic [ref=e102]:
+          - button "Watch Now" [ref=e103]:
+            - img [ref=e104]
+            - text: Watch Now
+          - button "More Info" [ref=e106]
+        - generic [ref=e107]:
+          - generic [ref=e109]: D
+          - generic [ref=e110]:
+            - paragraph [ref=e111]: DevStream
+            - paragraph [ref=e112]: Live Channel
+      - generic [ref=e113]:
+        - generic [ref=e114]:
+          - heading "🔥 Trending Now" [level=2] [ref=e115]
+          - generic [ref=e116]:
+            - button [ref=e117]:
+              - img [ref=e118]
+            - button [ref=e120]:
+              - img [ref=e121]
+        - generic [ref=e123]:
+          - generic [ref=e124] [cursor=pointer]:
+            - generic [ref=e125]:
+              - img "Building a Modern Web App with Next.js 14" [ref=e126]
+              - generic [ref=e127]: 45:32
+              - img [ref=e130]
+            - generic [ref=e132]:
+              - heading "Building a Modern Web App with Next.js 14" [level=3] [ref=e133]
+              - paragraph [ref=e134]: CodeMaster Pro
+              - generic [ref=e135]:
+                - generic [ref=e136]:
+                  - img [ref=e137]
+                  - text: 1.2M views
+                - generic [ref=e140]:
+                  - img [ref=e141]
+                  - text: 2 days ago
+          - generic [ref=e144] [cursor=pointer]:
+            - generic [ref=e145]:
+              - img "The Future of AI in Software Development" [ref=e146]
+              - generic [ref=e147]: 1:12:45
+              - img [ref=e150]
+            - generic [ref=e152]:
+              - heading "The Future of AI in Software Development" [level=3] [ref=e153]
+              - paragraph [ref=e154]: Tech Insights
+              - generic [ref=e155]:
+                - generic [ref=e156]:
+                  - img [ref=e157]
+                  - text: 892K views
+                - generic [ref=e160]:
+                  - img [ref=e161]
+                  - text: 5 days ago
+          - generic [ref=e164] [cursor=pointer]:
+            - generic [ref=e165]:
+              - img "Rust Programming - Complete Beginners Guide" [ref=e166]
+              - generic [ref=e167]: 2:30:15
+              - img [ref=e170]
+            - generic [ref=e172]:
+              - heading "Rust Programming - Complete Beginners Guide" [level=3] [ref=e173]
+              - paragraph [ref=e174]: Systems Lab
+              - generic [ref=e175]:
+                - generic [ref=e176]:
+                  - img [ref=e177]
+                  - text: 2.4M views
+                - generic [ref=e180]:
+                  - img [ref=e181]
+                  - text: 1 week ago
+          - generic [ref=e184] [cursor=pointer]:
+            - generic [ref=e185]:
+              - img "CSS Grid vs Flexbox - When to Use What" [ref=e186]
+              - generic [ref=e187]: 18:22
+              - img [ref=e190]
+            - generic [ref=e192]:
+              - heading "CSS Grid vs Flexbox - When to Use What" [level=3] [ref=e193]
+              - paragraph [ref=e194]: Web Dev Simplified
+              - generic [ref=e195]:
+                - generic [ref=e196]:
+                  - img [ref=e197]
+                  - text: 567K views
+                - generic [ref=e200]:
+                  - img [ref=e201]
+                  - text: 3 days ago
+          - generic [ref=e204] [cursor=pointer]:
+            - generic [ref=e205]:
+              - img "Deploying to Vercel - Full Tutorial" [ref=e206]
+              - generic [ref=e207]: 28:10
+              - img [ref=e210]
+            - generic [ref=e212]:
+              - heading "Deploying to Vercel - Full Tutorial" [level=3] [ref=e213]
+              - paragraph [ref=e214]: CloudCrafter
+              - generic [ref=e215]:
+                - generic [ref=e216]:
+                  - img [ref=e217]
+                  - text: 345K views
+                - generic [ref=e220]:
+                  - img [ref=e221]
+                  - text: 4 days ago
+          - generic [ref=e224] [cursor=pointer]:
+            - generic [ref=e225]:
+              - img "Building a REST API with Node.js" [ref=e226]
+              - generic [ref=e227]: 1:05:30
+              - img [ref=e230]
+            - generic [ref=e232]:
+              - heading "Building a REST API with Node.js" [level=3] [ref=e233]
+              - paragraph [ref=e234]: Backend Masters
+              - generic [ref=e235]:
+                - generic [ref=e236]:
+                  - img [ref=e237]
+                  - text: 1.8M views
+                - generic [ref=e240]:
+                  - img [ref=e241]
+                  - text: 2 weeks ago
+          - generic [ref=e244] [cursor=pointer]:
+            - generic [ref=e245]:
+              - img "TypeScript Advanced Patterns" [ref=e246]
+              - generic [ref=e247]: 52:18
+              - img [ref=e250]
+            - generic [ref=e252]:
+              - heading "TypeScript Advanced Patterns" [level=3] [ref=e253]
+              - paragraph [ref=e254]: TypeSafe Code
+              - generic [ref=e255]:
+                - generic [ref=e256]:
+                  - img [ref=e257]
+                  - text: 723K views
+                - generic [ref=e260]:
+                  - img [ref=e261]
+                  - text: 6 days ago
+          - generic [ref=e264] [cursor=pointer]:
+            - generic [ref=e265]:
+              - img "Docker Compose for Development" [ref=e266]
+              - generic [ref=e267]: 35:45
+              - img [ref=e270]
+            - generic [ref=e272]:
+              - heading "Docker Compose for Development" [level=3] [ref=e273]
+              - paragraph [ref=e274]: DevOps Daily
+              - generic [ref=e275]:
+                - generic [ref=e276]:
+                  - img [ref=e277]
+                  - text: 456K views
+                - generic [ref=e280]:
+                  - img [ref=e281]
+                  - text: 1 week ago
+      - generic [ref=e284]:
+        - generic [ref=e285]:
+          - heading "🔴 Live Now" [level=2] [ref=e286]
+          - generic [ref=e287]:
+            - button [ref=e288]:
+              - img [ref=e289]
+            - button [ref=e291]:
+              - img [ref=e292]
+        - generic [ref=e294]:
+          - generic [ref=e295] [cursor=pointer]:
+            - generic [ref=e296]:
+              - 'img "Live Coding: Building an AI Agent" [ref=e297]'
+              - generic [ref=e298]:
+                - img [ref=e299]
+                - text: LIVE
+              - generic [ref=e305]:
+                - img [ref=e306]
+                - text: 12.5K
+              - generic [ref=e311]: Twitch
+              - img [ref=e314]
+            - generic [ref=e316]:
+              - 'heading "Live Coding: Building an AI Agent" [level=3] [ref=e317]'
+              - paragraph [ref=e318]: DevStream
+          - generic [ref=e319] [cursor=pointer]:
+            - generic [ref=e320]:
+              - 'img "Live: Retro Game Tournament" [ref=e321]'
+              - generic [ref=e322]:
+                - img [ref=e323]
+                - text: LIVE
+              - generic [ref=e329]:
+                - img [ref=e330]
+                - text: 8.2K
+              - generic [ref=e335]: YouTube
+              - img [ref=e338]
+            - generic [ref=e340]:
+              - 'heading "Live: Retro Game Tournament" [level=3] [ref=e341]'
+              - paragraph [ref=e342]: RetroGaming Hub
+          - generic [ref=e343] [cursor=pointer]:
+            - generic [ref=e344]:
+              - img "Building a Startup - Live Q&A" [ref=e345]
+              - generic [ref=e346]:
+                - img [ref=e347]
+                - text: LIVE
+              - generic [ref=e353]:
+                - img [ref=e354]
+                - text: 5.7K
+              - generic [ref=e359]: YouTube
+              - img [ref=e362]
+            - generic [ref=e364]:
+              - heading "Building a Startup - Live Q&A" [level=3] [ref=e365]
+              - paragraph [ref=e366]: Founder Stories
+          - generic [ref=e367] [cursor=pointer]:
+            - generic [ref=e368]:
+              - img "Live Music Production Session" [ref=e369]
+              - generic [ref=e370]:
+                - img [ref=e371]
+                - text: LIVE
+              - generic [ref=e377]:
+                - img [ref=e378]
+                - text: 3.1K
+              - generic [ref=e383]: Twitch
+              - img [ref=e386]
+            - generic [ref=e388]:
+              - heading "Live Music Production Session" [level=3] [ref=e389]
+              - paragraph [ref=e390]: BeatMaker TV
+          - generic [ref=e391] [cursor=pointer]:
+            - generic [ref=e392]:
+              - img "Competitive Programming Practice" [ref=e393]
+              - generic [ref=e394]:
+                - img [ref=e395]
+                - text: LIVE
+              - generic [ref=e401]:
+                - img [ref=e402]
+                - text: 2.8K
+              - generic [ref=e407]: YouTube
+              - img [ref=e410]
+            - generic [ref=e412]:
+              - heading "Competitive Programming Practice" [level=3] [ref=e413]
+              - paragraph [ref=e414]: CodeForces Live
+          - generic [ref=e415] [cursor=pointer]:
+            - generic [ref=e416]:
+              - img "Live Debugging Session" [ref=e417]
+              - generic [ref=e418]:
+                - img [ref=e419]
+                - text: LIVE
+              - generic [ref=e425]:
+                - img [ref=e426]
+                - text: 1.9K
+              - generic [ref=e431]: Twitch
+              - img [ref=e434]
+            - generic [ref=e436]:
+              - heading "Live Debugging Session" [level=3] [ref=e437]
+              - paragraph [ref=e438]: BugHunter
+      - generic [ref=e439]:
+        - generic [ref=e440]:
+          - heading "🎬 New Releases" [level=2] [ref=e441]
+          - generic [ref=e442]:
+            - button [ref=e443]:
+              - img [ref=e444]
+            - button [ref=e446]:
+              - img [ref=e447]
+        - generic [ref=e449]:
+          - generic [ref=e450] [cursor=pointer]:
+            - generic [ref=e451]:
+              - img "Deploying to Vercel - Full Tutorial" [ref=e452]
+              - generic [ref=e453]: 28:10
+              - img [ref=e456]
+            - generic [ref=e458]:
+              - heading "Deploying to Vercel - Full Tutorial" [level=3] [ref=e459]
+              - paragraph [ref=e460]: CloudCrafter
+              - generic [ref=e461]:
+                - generic [ref=e462]:
+                  - img [ref=e463]
+                  - text: 345K views
+                - generic [ref=e466]:
+                  - img [ref=e467]
+                  - text: 4 days ago
+          - generic [ref=e470] [cursor=pointer]:
+            - generic [ref=e471]:
+              - img "Building a REST API with Node.js" [ref=e472]
+              - generic [ref=e473]: 1:05:30
+              - img [ref=e476]
+            - generic [ref=e478]:
+              - heading "Building a REST API with Node.js" [level=3] [ref=e479]
+              - paragraph [ref=e480]: Backend Masters
+              - generic [ref=e481]:
+                - generic [ref=e482]:
+                  - img [ref=e483]
+                  - text: 1.8M views
+                - generic [ref=e486]:
+                  - img [ref=e487]
+                  - text: 2 weeks ago
+          - generic [ref=e490] [cursor=pointer]:
+            - generic [ref=e491]:
+              - img "TypeScript Advanced Patterns" [ref=e492]
+              - generic [ref=e493]: 52:18
+              - img [ref=e496]
+            - generic [ref=e498]:
+              - heading "TypeScript Advanced Patterns" [level=3] [ref=e499]
+              - paragraph [ref=e500]: TypeSafe Code
+              - generic [ref=e501]:
+                - generic [ref=e502]:
+                  - img [ref=e503]
+                  - text: 723K views
+                - generic [ref=e506]:
+                  - img [ref=e507]
+                  - text: 6 days ago
+          - generic [ref=e510] [cursor=pointer]:
+            - generic [ref=e511]:
+              - img "Docker Compose for Development" [ref=e512]
+              - generic [ref=e513]: 35:45
+              - img [ref=e516]
+            - generic [ref=e518]:
+              - heading "Docker Compose for Development" [level=3] [ref=e519]
+              - paragraph [ref=e520]: DevOps Daily
+              - generic [ref=e521]:
+                - generic [ref=e522]:
+                  - img [ref=e523]
+                  - text: 456K views
+                - generic [ref=e526]:
+                  - img [ref=e527]
+                  - text: 1 week ago
+      - generic [ref=e530]:
+        - heading "🎥 Movie Vault" [level=2] [ref=e531]
+        - generic [ref=e532]:
+          - generic [ref=e533] [cursor=pointer]:
+            - generic [ref=e534]:
+              - img "Interstellar" [ref=e535]
+              - generic [ref=e536]:
+                - img [ref=e537]
+                - text: "8.7"
+              - img [ref=e542]
+            - generic [ref=e544]:
+              - heading "Interstellar" [level=3] [ref=e545]
+              - generic [ref=e546]:
+                - generic [ref=e547]: "2014"
+                - generic [ref=e549]:
+                  - img [ref=e550]
+                  - text: 2h 49m
+              - paragraph [ref=e553]: Sci-Fi
+          - generic [ref=e554] [cursor=pointer]:
+            - generic [ref=e555]:
+              - img "Inception" [ref=e556]
+              - generic [ref=e557]:
+                - img [ref=e558]
+                - text: "8.8"
+              - img [ref=e563]
+            - generic [ref=e565]:
+              - heading "Inception" [level=3] [ref=e566]
+              - generic [ref=e567]:
+                - generic [ref=e568]: "2010"
+                - generic [ref=e570]:
+                  - img [ref=e571]
+                  - text: 2h 28m
+              - paragraph [ref=e574]: Action
+          - generic [ref=e575] [cursor=pointer]:
+            - generic [ref=e576]:
+              - img "The Dark Knight" [ref=e577]
+              - generic [ref=e578]:
+                - img [ref=e579]
+                - text: "9.0"
+              - img [ref=e584]
+            - generic [ref=e586]:
+              - heading "The Dark Knight" [level=3] [ref=e587]
+              - generic [ref=e588]:
+                - generic [ref=e589]: "2008"
+                - generic [ref=e591]:
+                  - img [ref=e592]
+                  - text: 2h 32m
+              - paragraph [ref=e595]: Action
+          - generic [ref=e596] [cursor=pointer]:
+            - generic [ref=e597]:
+              - img "Blade Runner 2049" [ref=e598]
+              - generic [ref=e599]:
+                - img [ref=e600]
+                - text: "8.0"
+              - img [ref=e605]
+            - generic [ref=e607]:
+              - heading "Blade Runner 2049" [level=3] [ref=e608]
+              - generic [ref=e609]:
+                - generic [ref=e610]: "2017"
+                - generic [ref=e612]:
+                  - img [ref=e613]
+                  - text: 2h 44m
+              - paragraph [ref=e616]: Sci-Fi
+          - generic [ref=e617] [cursor=pointer]:
+            - generic [ref=e618]:
+              - img "Dune" [ref=e619]
+              - generic [ref=e620]:
+                - img [ref=e621]
+                - text: "8.0"
+              - img [ref=e626]
+            - generic [ref=e628]:
+              - heading "Dune" [level=3] [ref=e629]
+              - generic [ref=e630]:
+                - generic [ref=e631]: "2021"
+                - generic [ref=e633]:
+                  - img [ref=e634]
+                  - text: 2h 35m
+              - paragraph [ref=e637]: Sci-Fi
+          - generic [ref=e638] [cursor=pointer]:
+            - generic [ref=e639]:
+              - img "The Matrix" [ref=e640]
+              - generic [ref=e641]:
+                - img [ref=e642]
+                - text: "8.7"
+              - img [ref=e647]
+            - generic [ref=e649]:
+              - heading "The Matrix" [level=3] [ref=e650]
+              - generic [ref=e651]:
+                - generic [ref=e652]: "1999"
+                - generic [ref=e654]:
+                  - img [ref=e655]
+                  - text: 2h 16m
+              - paragraph [ref=e658]: Sci-Fi
+    - generic [ref=e660]:
+      - generic [ref=e661]:
+        - generic [ref=e662]:
+          - img "Midnight Dreams" [ref=e663]
+          - img [ref=e665]
+        - generic [ref=e670]:
+          - heading "Midnight Dreams" [level=4] [ref=e671]
+          - paragraph [ref=e672]: Luna Wave
+        - button [ref=e673]:
+          - img [ref=e674]
+      - generic [ref=e676]:
+        - generic [ref=e677]:
+          - button [ref=e678]:
+            - img [ref=e679]
+          - button [ref=e685]:
+            - img [ref=e686]
+          - button [ref=e688]:
+            - img [ref=e689]
+          - button [ref=e691]:
+            - img [ref=e692]
+          - button [ref=e694]:
+            - img [ref=e695]
+        - generic [ref=e700]:
+          - generic [ref=e701]: 0:00
+          - generic [ref=e704]: 3:30
+      - generic [ref=e705]:
+        - button [ref=e706]:
+          - img [ref=e707]
+        - button [ref=e710]:
+          - img [ref=e711]
+  - alert [ref=e718]
